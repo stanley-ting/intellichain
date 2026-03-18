@@ -62,7 +62,7 @@ Each node emits events to `ui.events` stream for real-time frontend updates.
 | Event Backbone | Redis Streams + Consumer Groups |
 | Knowledge Graph | Neo4j + Cypher |
 | Orchestration | LangGraph |
-| LLMs | Gemini Flash (fast tasks), Gemini Pro (reasoning) |
+| LLMs | Gemini 2.5 Flash (fast tasks), Gemini 2.5 Pro (reasoning) |
 | Frontend | Next.js, Tailwind, amCharts (map visualization) |
 | Infrastructure | Docker Compose |
 
