@@ -28,6 +28,8 @@ htmlcov/
 # Screenshots
 screenshots/
 
+*.png
+
 # Playwright
 .playwright/
 .playwright-mcp/
