@@ -1,4 +1,0 @@
-[     378ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:8000/api/workflows/64eda345-ed5a-4ec5-870b-feb0277c7ccd:0
-[    1385ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:8000/api/workflows/64eda345-ed5a-4ec5-870b-feb0277c7ccd:0
-[    3401ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:8000/api/workflows/64eda345-ed5a-4ec5-870b-feb0277c7ccd:0
-[    7412ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:8000/api/workflows/64eda345-ed5a-4ec5-870b-feb0277c7ccd:0

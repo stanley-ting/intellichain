@@ -30,4 +30,5 @@ screenshots/
 
 # Playwright
 .playwright/
+.playwright-mcp/
 playwright-report/
